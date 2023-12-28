@@ -19,8 +19,8 @@ server.use(cors());
 // Replace 'http://localhost:3000' with your frontend's URL
 server.use(
   cors({
-    origin: "http://localhost:3000",
-    credentials: true, // Enable credentials (if needed)
+    origin: "http://localhost:5173/",
+    credentials: false, // Enable credentials (if needed)
   })
 );
 
