@@ -58,6 +58,104 @@
       },
       "termsAccepted": true,
       "id": 1
+    },
+    {
+      "name": "dr koba",
+      "selectedOptions": [
+        {
+          "id": "1",
+          "key": "1",
+          "value": "Manufacturing",
+          "type": "parent"
+        },
+        {
+          "id": "1.4",
+          "key": "1.4",
+          "value": "Furniture",
+          "type": "parent"
+        },
+        {
+          "id": "1.4.1",
+          "key": "1.4.1",
+          "value": "Bathroom",
+          "type": "child"
+        },
+        {
+          "id": "1.4.2",
+          "key": "1.4.2",
+          "value": "Bedroom",
+          "type": "child"
+        },
+        {
+          "id": "1.4.3",
+          "key": "1.4.3",
+          "value": "Kitchen",
+          "type": "child"
+        }
+      ],
+      "selectedOptionKeys": {
+        "1": {
+          "checked": false,
+          "partialChecked": true
+        },
+        "1.4.3": {
+          "checked": true,
+          "partialChecked": false
+        },
+        "1.4": {
+          "checked": false,
+          "partialChecked": true
+        },
+        "1.4.2": {
+          "checked": true,
+          "partialChecked": false
+        },
+        "1.4.1": {
+          "checked": true,
+          "partialChecked": false
+        }
+      },
+      "termsAccepted": true,
+      "id": 2
+    },
+    {
+      "name": "gfdg",
+      "selectedOptions": [
+        {
+          "id": "1",
+          "key": "1",
+          "value": "Manufacturing",
+          "type": "parent"
+        },
+        {
+          "id": "1.4",
+          "key": "1.4",
+          "value": "Furniture",
+          "type": "parent"
+        },
+        {
+          "id": "1.4.3",
+          "key": "1.4.3",
+          "value": "Kitchen",
+          "type": "child"
+        }
+      ],
+      "selectedOptionKeys": {
+        "1": {
+          "checked": false,
+          "partialChecked": true
+        },
+        "1.4.3": {
+          "checked": true,
+          "partialChecked": false
+        },
+        "1.4": {
+          "checked": false,
+          "partialChecked": true
+        }
+      },
+      "termsAccepted": true,
+      "id": 3
     }
   ]
 }
