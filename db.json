@@ -1,0 +1,63 @@
+{
+  "selectedOptions": [
+    {
+      "name": "muneeb",
+      "selectedOptions": [
+        {
+          "id": "1",
+          "key": "1",
+          "value": "Manufacturing",
+          "type": "parent"
+        },
+        {
+          "id": "1.2",
+          "key": "1.2",
+          "value": "Electronics and Optics",
+          "type": "child"
+        },
+        {
+          "id": "1.4",
+          "key": "1.4",
+          "value": "Furniture",
+          "type": "parent"
+        },
+        {
+          "id": "1.4.2",
+          "key": "1.4.2",
+          "value": "Bedroom",
+          "type": "child"
+        },
+        {
+          "id": "1.4.4",
+          "key": "1.4.4",
+          "value": "Living room",
+          "type": "child"
+        }
+      ],
+      "selectedOptionKeys": {
+        "1": {
+          "checked": false,
+          "partialChecked": true
+        },
+        "1.4.4": {
+          "checked": true,
+          "partialChecked": false
+        },
+        "1.4": {
+          "checked": false,
+          "partialChecked": true
+        },
+        "1.4.2": {
+          "checked": true,
+          "partialChecked": false
+        },
+        "1.2": {
+          "checked": true,
+          "partialChecked": false
+        }
+      },
+      "termsAccepted": true,
+      "id": 1
+    }
+  ]
+}
